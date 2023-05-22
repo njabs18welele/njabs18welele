@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Njabulo Ndimande</h1>
-<h6 align="center">I developed expertise in programming languages, software engineering, data structures and algorithms, computer networking and database management. I have demonstrated strong analytical and problem-solving skills, which I have applied to various projects and assignments. I have also shown an ability to work both independently, as part of a team and have excellent communication skills. I am looking to gain more practical experiences and industrial exposure.</h`>
+<h6 align="center">I developed expertise in programming languages, software engineering, data structures and algorithms, computer networking and database management. I have demonstrated strong analytical and problem-solving skills, which I have applied to various projects and assignments. I have also shown an ability to work both independently, as part of a team and have excellent communication skills. I am looking to gain more practical experiences and industrial exposure.</h6>
 
 
 
