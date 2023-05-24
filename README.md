@@ -1,7 +1,7 @@
-<img align="center" alt="Coder GIF" src="https://indoanalytica.com/static/images/bannerr.gif" />
+
 <h1 align="center">Hi 👋, I'm Njabulo Ndimande</h1>
 <h6 align="center">I developed expertise in programming languages, software engineering, data structures and algorithms, computer networking and database management. I have demonstrated strong analytical and problem-solving skills, which I have applied to various projects and assignments. I have also shown an ability to work both independently, as part of a team and have excellent communication skills. I am looking to gain more practical experiences and industrial exposure.</h6>
-
+<img align="center" alt="Coder GIF" src="https://indoanalytica.com/static/images/bannerr.gif" />
 
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
