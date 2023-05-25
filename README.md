@@ -4,7 +4,7 @@
 <img align="center" alt="Coder GIF" src="https://indoanalytica.com/static/images/bannerr.gif" />
 
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
+<!-- <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif"> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=njabs18welele&label=Profile%20views&color=0e75b6&style=flat" alt="njabs18welele" /> </p>
 
